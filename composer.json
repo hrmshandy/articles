@@ -1,5 +1,5 @@
 {
-    "name": "cms/articles",
+    "name": "hrmshandy/articles",
     "description": "The Articles Package",
     "type": "library",
     "license": "MIT",
