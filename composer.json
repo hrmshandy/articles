@@ -1,0 +1,29 @@
+{
+    "name": "cms/articles",
+    "description": "The Articles Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shandy Hermawan",
+            "email": "hrm.shandy05@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "CMS\\Articles\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
